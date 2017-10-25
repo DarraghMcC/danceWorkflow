@@ -32,7 +32,7 @@
 
 		<dependency>
 			<groupId>com.danceWorkflow</groupId>
-			<artifactId>bean-utils</artifactId>
+			<artifactId>utils</artifactId>
 		</dependency>
 
 		<dependency>
